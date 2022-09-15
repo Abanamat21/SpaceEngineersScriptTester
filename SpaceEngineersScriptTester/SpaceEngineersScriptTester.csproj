@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SpaceEngineers-Mods-Stable" Version="1.0.184.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PBUnlimiter">
+      <HintPath>E:\ProgProjects\C#\Space Engineers\MDK-SE-master\binaries\PBUnlimiter.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

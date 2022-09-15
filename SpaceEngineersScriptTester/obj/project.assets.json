@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SpaceEngineers-Mods-Stable/1.0.184.5": {
+        "type": "package",
+        "compile": {
+          "lib/net461/HavokWrapper.dll": {},
+          "lib/net461/Sandbox.Common.dll": {},
+          "lib/net461/Sandbox.Game.dll": {},
+          "lib/net461/Sandbox.Graphics.dll": {},
+          "lib/net461/SpaceEngineers.Game.dll": {},
+          "lib/net461/SpaceEngineers.ObjectBuilders.dll": {},
+          "lib/net461/SteamSDK.dll": {},
+          "lib/net461/VRage.Game.dll": {},
+          "lib/net461/VRage.Input.dll": {},
+          "lib/net461/VRage.Library.dll": {},
+          "lib/net461/VRage.Math.dll": {},
+          "lib/net461/VRage.Render.dll": {},
+          "lib/net461/VRage.Scripting.dll": {},
+          "lib/net461/VRage.dll": {}
+        },
+        "runtime": {
+          "lib/net461/HavokWrapper.dll": {},
+          "lib/net461/Sandbox.Common.dll": {},
+          "lib/net461/Sandbox.Game.dll": {},
+          "lib/net461/Sandbox.Graphics.dll": {},
+          "lib/net461/SpaceEngineers.Game.dll": {},
+          "lib/net461/SpaceEngineers.ObjectBuilders.dll": {},
+          "lib/net461/SteamSDK.dll": {},
+          "lib/net461/VRage.Game.dll": {},
+          "lib/net461/VRage.Input.dll": {},
+          "lib/net461/VRage.Library.dll": {},
+          "lib/net461/VRage.Math.dll": {},
+          "lib/net461/VRage.Render.dll": {},
+          "lib/net461/VRage.Scripting.dll": {},
+          "lib/net461/VRage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpaceEngineers-Mods-Stable/1.0.184.5": {
+      "sha512": "C/CwA+AOiQch03vuE4V22PCFkvz70LZu6ZYSasEjc/UnkeBMqasc20WzDatMzeH1n9yM/Q1FbCqYxZf4T+kAXw==",
+      "type": "package",
+      "path": "spaceengineers-mods-stable/1.0.184.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/HavokWrapper.dll",
+        "lib/net461/Sandbox.Common.dll",
+        "lib/net461/Sandbox.Game.dll",
+        "lib/net461/Sandbox.Graphics.dll",
+        "lib/net461/SpaceEngineers.Game.dll",
+        "lib/net461/SpaceEngineers.ObjectBuilders.dll",
+        "lib/net461/SteamSDK.dll",
+        "lib/net461/VRage.Game.dll",
+        "lib/net461/VRage.Input.dll",
+        "lib/net461/VRage.Library.dll",
+        "lib/net461/VRage.Math.dll",
+        "lib/net461/VRage.Render.dll",
+        "lib/net461/VRage.Scripting.dll",
+        "lib/net461/VRage.dll",
+        "spaceengineers-mods-stable.1.0.184.5.nupkg.sha512",
+        "spaceengineers-mods-stable.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SpaceEngineers-Mods-Stable >= 1.0.184.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Abanamat21\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\ProgProjects\\C#\\SpaceEngineers\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester.csproj",
+      "projectName": "SpaceEngineersScriptTester",
+      "projectPath": "E:\\ProgProjects\\C#\\SpaceEngineers\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester.csproj",
+      "packagesPath": "C:\\Users\\Abanamat21\\.nuget\\packages\\",
+      "outputPath": "E:\\ProgProjects\\C#\\SpaceEngineers\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Abanamat21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "SpaceEngineers-Mods-Stable": {
+            "target": "Package",
+            "version": "[1.0.184.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SpaceEngineers-Mods-Stable 1.0.184.5\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SpaceEngineers-Mods-Stable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\Abanamat21\source\repos\SpaceEngineersScriptTester\SpaceEngineersScriptTester\bin\Debug\netcoreapp3.1\SpaceEngineersScriptTester.exe
+C:\Users\Abanamat21\source\repos\SpaceEngineersScriptTester\SpaceEngineersScriptTester\obj\Debug\netcoreapp3.1\SpaceEngineersScriptTester.csprojAssemblyReference.cache
+C:\Users\Abanamat21\source\repos\SpaceEngineersScriptTester\SpaceEngineersScriptTester\obj\Debug\netcoreapp3.1\SpaceEngineersScriptTester.AssemblyInfoInputs.cache
+C:\Users\Abanamat21\source\repos\SpaceEngineersScriptTester\SpaceEngineersScriptTester\obj\Debug\netcoreapp3.1\SpaceEngineersScriptTester.AssemblyInfo.cs

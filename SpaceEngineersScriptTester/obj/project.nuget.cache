@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pz0uMb4fL0+uiag0LKzz6U+1MBr6N1lcsNJshC5GBeOglyERNVSyskoqGlwZ/9WzC2lVwlYwN9hf8RwFlkKmbg==",
+  "success": true,
+  "projectFilePath": "E:\\ProgProjects\\C#\\SpaceEngineers\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester\\SpaceEngineersScriptTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abanamat21\\.nuget\\packages\\spaceengineers-mods-stable\\1.0.184.5\\spaceengineers-mods-stable.1.0.184.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SpaceEngineers-Mods-Stable 1.0.184.5\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SpaceEngineers-Mods-Stable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
